@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/svg-animator/static/css/main.a106da3c.css",
+    "main.js": "/svg-animator/static/js/main.ae447925.js",
+    "static/js/453.ebed3bbe.chunk.js": "/svg-animator/static/js/453.ebed3bbe.chunk.js",
+    "index.html": "/svg-animator/index.html",
+    "main.a106da3c.css.map": "/svg-animator/static/css/main.a106da3c.css.map",
+    "main.ae447925.js.map": "/svg-animator/static/js/main.ae447925.js.map",
+    "453.ebed3bbe.chunk.js.map": "/svg-animator/static/js/453.ebed3bbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a106da3c.css",
+    "static/js/main.ae447925.js"
+  ]
+}
